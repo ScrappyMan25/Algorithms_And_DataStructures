@@ -1,0 +1,20 @@
+C:\Users\Dell XPS\source\repos\LibraryBooks\LibraryBooks\bin\Debug\LibraryBooks.exe.config
+C:\Users\Dell XPS\source\repos\LibraryBooks\LibraryBooks\bin\Debug\LibraryBooks.exe
+C:\Users\Dell XPS\source\repos\LibraryBooks\LibraryBooks\bin\Debug\LibraryBooks.pdb
+C:\Users\Dell XPS\source\repos\LibraryBooks\LibraryBooks\obj\Debug\LibraryBooks.csprojAssemblyReference.cache
+C:\Users\Dell XPS\source\repos\LibraryBooks\LibraryBooks\obj\Debug\LibraryBooks.Form1.resources
+C:\Users\Dell XPS\source\repos\LibraryBooks\LibraryBooks\obj\Debug\LibraryBooks.Properties.Resources.resources
+C:\Users\Dell XPS\source\repos\LibraryBooks\LibraryBooks\obj\Debug\LibraryBooks.csproj.GenerateResource.cache
+C:\Users\Dell XPS\source\repos\LibraryBooks\LibraryBooks\obj\Debug\LibraryBooks.csproj.CoreCompileInputs.cache
+C:\Users\Dell XPS\source\repos\LibraryBooks\LibraryBooks\obj\Debug\LibraryBooks.exe
+C:\Users\Dell XPS\source\repos\LibraryBooks\LibraryBooks\obj\Debug\LibraryBooks.pdb
+C:\Users\shyam\Desktop\Assignments\ExerciseWeek1_2\TaskB\LibraryBooks\LibraryBooks\bin\Debug\LibraryBooks.exe.config
+C:\Users\shyam\Desktop\Assignments\ExerciseWeek1_2\TaskB\LibraryBooks\LibraryBooks\bin\Debug\LibraryBooks.exe
+C:\Users\shyam\Desktop\Assignments\ExerciseWeek1_2\TaskB\LibraryBooks\LibraryBooks\bin\Debug\LibraryBooks.pdb
+C:\Users\shyam\Desktop\Assignments\ExerciseWeek1_2\TaskB\LibraryBooks\LibraryBooks\obj\Debug\LibraryBooks.csprojAssemblyReference.cache
+C:\Users\shyam\Desktop\Assignments\ExerciseWeek1_2\TaskB\LibraryBooks\LibraryBooks\obj\Debug\LibraryBooks.Form1.resources
+C:\Users\shyam\Desktop\Assignments\ExerciseWeek1_2\TaskB\LibraryBooks\LibraryBooks\obj\Debug\LibraryBooks.Properties.Resources.resources
+C:\Users\shyam\Desktop\Assignments\ExerciseWeek1_2\TaskB\LibraryBooks\LibraryBooks\obj\Debug\LibraryBooks.csproj.GenerateResource.cache
+C:\Users\shyam\Desktop\Assignments\ExerciseWeek1_2\TaskB\LibraryBooks\LibraryBooks\obj\Debug\LibraryBooks.csproj.CoreCompileInputs.cache
+C:\Users\shyam\Desktop\Assignments\ExerciseWeek1_2\TaskB\LibraryBooks\LibraryBooks\obj\Debug\LibraryBooks.exe
+C:\Users\shyam\Desktop\Assignments\ExerciseWeek1_2\TaskB\LibraryBooks\LibraryBooks\obj\Debug\LibraryBooks.pdb

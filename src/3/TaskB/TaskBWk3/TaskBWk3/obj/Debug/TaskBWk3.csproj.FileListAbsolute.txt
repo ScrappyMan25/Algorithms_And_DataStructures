@@ -1,0 +1,14 @@
+C:\Users\Dell XPS\source\repos\TaskBWk3\TaskBWk3\bin\Debug\TaskBWk3.exe.config
+C:\Users\Dell XPS\source\repos\TaskBWk3\TaskBWk3\bin\Debug\TaskBWk3.exe
+C:\Users\Dell XPS\source\repos\TaskBWk3\TaskBWk3\bin\Debug\TaskBWk3.pdb
+C:\Users\Dell XPS\source\repos\TaskBWk3\TaskBWk3\obj\Debug\TaskBWk3.csprojAssemblyReference.cache
+C:\Users\Dell XPS\source\repos\TaskBWk3\TaskBWk3\obj\Debug\TaskBWk3.csproj.CoreCompileInputs.cache
+C:\Users\Dell XPS\source\repos\TaskBWk3\TaskBWk3\obj\Debug\TaskBWk3.exe
+C:\Users\Dell XPS\source\repos\TaskBWk3\TaskBWk3\obj\Debug\TaskBWk3.pdb
+C:\Users\shyam\Desktop\Assignments\ExerciseWeek3\TaskB\TaskBWk3\TaskBWk3\bin\Debug\TaskBWk3.exe.config
+C:\Users\shyam\Desktop\Assignments\ExerciseWeek3\TaskB\TaskBWk3\TaskBWk3\bin\Debug\TaskBWk3.exe
+C:\Users\shyam\Desktop\Assignments\ExerciseWeek3\TaskB\TaskBWk3\TaskBWk3\bin\Debug\TaskBWk3.pdb
+C:\Users\shyam\Desktop\Assignments\ExerciseWeek3\TaskB\TaskBWk3\TaskBWk3\obj\Debug\TaskBWk3.csprojAssemblyReference.cache
+C:\Users\shyam\Desktop\Assignments\ExerciseWeek3\TaskB\TaskBWk3\TaskBWk3\obj\Debug\TaskBWk3.csproj.CoreCompileInputs.cache
+C:\Users\shyam\Desktop\Assignments\ExerciseWeek3\TaskB\TaskBWk3\TaskBWk3\obj\Debug\TaskBWk3.exe
+C:\Users\shyam\Desktop\Assignments\ExerciseWeek3\TaskB\TaskBWk3\TaskBWk3\obj\Debug\TaskBWk3.pdb

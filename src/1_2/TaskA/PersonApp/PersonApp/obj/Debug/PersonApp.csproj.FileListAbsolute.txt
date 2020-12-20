@@ -1,0 +1,30 @@
+C:\Users\Dell XPS\source\repos\PersonApp\PersonApp\bin\Debug\PersonApp.exe.config
+C:\Users\Dell XPS\source\repos\PersonApp\PersonApp\bin\Debug\PersonApp.exe
+C:\Users\Dell XPS\source\repos\PersonApp\PersonApp\bin\Debug\PersonApp.pdb
+C:\Users\Dell XPS\source\repos\PersonApp\PersonApp\obj\Debug\PersonApp.csprojAssemblyReference.cache
+C:\Users\Dell XPS\source\repos\PersonApp\PersonApp\obj\Debug\PersonApp.Form1.resources
+C:\Users\Dell XPS\source\repos\PersonApp\PersonApp\obj\Debug\PersonApp.Properties.Resources.resources
+C:\Users\Dell XPS\source\repos\PersonApp\PersonApp\obj\Debug\PersonApp.csproj.GenerateResource.cache
+C:\Users\Dell XPS\source\repos\PersonApp\PersonApp\obj\Debug\PersonApp.csproj.CoreCompileInputs.cache
+C:\Users\Dell XPS\source\repos\PersonApp\PersonApp\obj\Debug\PersonApp.exe
+C:\Users\Dell XPS\source\repos\PersonApp\PersonApp\obj\Debug\PersonApp.pdb
+C:\Users\shyam\Documents\Uni Stuffs - 2020-21\A&DS\Assignment\ExerciseWeek1_2\TaskA\PersonApp\PersonApp\bin\Debug\PersonApp.exe.config
+C:\Users\shyam\Documents\Uni Stuffs - 2020-21\A&DS\Assignment\ExerciseWeek1_2\TaskA\PersonApp\PersonApp\bin\Debug\PersonApp.exe
+C:\Users\shyam\Documents\Uni Stuffs - 2020-21\A&DS\Assignment\ExerciseWeek1_2\TaskA\PersonApp\PersonApp\bin\Debug\PersonApp.pdb
+C:\Users\shyam\Documents\Uni Stuffs - 2020-21\A&DS\Assignment\ExerciseWeek1_2\TaskA\PersonApp\PersonApp\obj\Debug\PersonApp.csprojAssemblyReference.cache
+C:\Users\shyam\Documents\Uni Stuffs - 2020-21\A&DS\Assignment\ExerciseWeek1_2\TaskA\PersonApp\PersonApp\obj\Debug\PersonApp.Form1.resources
+C:\Users\shyam\Documents\Uni Stuffs - 2020-21\A&DS\Assignment\ExerciseWeek1_2\TaskA\PersonApp\PersonApp\obj\Debug\PersonApp.Properties.Resources.resources
+C:\Users\shyam\Documents\Uni Stuffs - 2020-21\A&DS\Assignment\ExerciseWeek1_2\TaskA\PersonApp\PersonApp\obj\Debug\PersonApp.csproj.GenerateResource.cache
+C:\Users\shyam\Documents\Uni Stuffs - 2020-21\A&DS\Assignment\ExerciseWeek1_2\TaskA\PersonApp\PersonApp\obj\Debug\PersonApp.csproj.CoreCompileInputs.cache
+C:\Users\shyam\Documents\Uni Stuffs - 2020-21\A&DS\Assignment\ExerciseWeek1_2\TaskA\PersonApp\PersonApp\obj\Debug\PersonApp.exe
+C:\Users\shyam\Documents\Uni Stuffs - 2020-21\A&DS\Assignment\ExerciseWeek1_2\TaskA\PersonApp\PersonApp\obj\Debug\PersonApp.pdb
+C:\Users\shyam\Desktop\Assignments\ExerciseWeek1_2\TaskA\PersonApp\PersonApp\bin\Debug\PersonApp.exe.config
+C:\Users\shyam\Desktop\Assignments\ExerciseWeek1_2\TaskA\PersonApp\PersonApp\bin\Debug\PersonApp.exe
+C:\Users\shyam\Desktop\Assignments\ExerciseWeek1_2\TaskA\PersonApp\PersonApp\bin\Debug\PersonApp.pdb
+C:\Users\shyam\Desktop\Assignments\ExerciseWeek1_2\TaskA\PersonApp\PersonApp\obj\Debug\PersonApp.csprojAssemblyReference.cache
+C:\Users\shyam\Desktop\Assignments\ExerciseWeek1_2\TaskA\PersonApp\PersonApp\obj\Debug\PersonApp.Form1.resources
+C:\Users\shyam\Desktop\Assignments\ExerciseWeek1_2\TaskA\PersonApp\PersonApp\obj\Debug\PersonApp.Properties.Resources.resources
+C:\Users\shyam\Desktop\Assignments\ExerciseWeek1_2\TaskA\PersonApp\PersonApp\obj\Debug\PersonApp.csproj.GenerateResource.cache
+C:\Users\shyam\Desktop\Assignments\ExerciseWeek1_2\TaskA\PersonApp\PersonApp\obj\Debug\PersonApp.csproj.CoreCompileInputs.cache
+C:\Users\shyam\Desktop\Assignments\ExerciseWeek1_2\TaskA\PersonApp\PersonApp\obj\Debug\PersonApp.exe
+C:\Users\shyam\Desktop\Assignments\ExerciseWeek1_2\TaskA\PersonApp\PersonApp\obj\Debug\PersonApp.pdb

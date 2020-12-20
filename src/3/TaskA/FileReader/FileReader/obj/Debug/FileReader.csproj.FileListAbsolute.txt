@@ -1,0 +1,14 @@
+C:\Users\Dell XPS\source\repos\FileReader\FileReader\bin\Debug\FileReader.exe.config
+C:\Users\Dell XPS\source\repos\FileReader\FileReader\bin\Debug\FileReader.exe
+C:\Users\Dell XPS\source\repos\FileReader\FileReader\bin\Debug\FileReader.pdb
+C:\Users\Dell XPS\source\repos\FileReader\FileReader\obj\Debug\FileReader.csprojAssemblyReference.cache
+C:\Users\Dell XPS\source\repos\FileReader\FileReader\obj\Debug\FileReader.csproj.CoreCompileInputs.cache
+C:\Users\Dell XPS\source\repos\FileReader\FileReader\obj\Debug\FileReader.exe
+C:\Users\Dell XPS\source\repos\FileReader\FileReader\obj\Debug\FileReader.pdb
+C:\Users\shyam\Desktop\Assignments\ExerciseWeek3\TaskA\FileReader\FileReader\bin\Debug\FileReader.exe.config
+C:\Users\shyam\Desktop\Assignments\ExerciseWeek3\TaskA\FileReader\FileReader\bin\Debug\FileReader.exe
+C:\Users\shyam\Desktop\Assignments\ExerciseWeek3\TaskA\FileReader\FileReader\bin\Debug\FileReader.pdb
+C:\Users\shyam\Desktop\Assignments\ExerciseWeek3\TaskA\FileReader\FileReader\obj\Debug\FileReader.csprojAssemblyReference.cache
+C:\Users\shyam\Desktop\Assignments\ExerciseWeek3\TaskA\FileReader\FileReader\obj\Debug\FileReader.csproj.CoreCompileInputs.cache
+C:\Users\shyam\Desktop\Assignments\ExerciseWeek3\TaskA\FileReader\FileReader\obj\Debug\FileReader.exe
+C:\Users\shyam\Desktop\Assignments\ExerciseWeek3\TaskA\FileReader\FileReader\obj\Debug\FileReader.pdb
